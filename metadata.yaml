@@ -1,0 +1,30 @@
+_repo: Memorie-Edizione-diplomatica-dall-autografo-definitivo_56500
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Garibaldi, Giuseppe
+    birthdate: 1807
+    deathdate: 1882
+    gutenberg_agent_id: '2358'
+    url: http://www.gutenberg.org/2009/agents/2358
+    wikipedia: http://en.wikipedia.org/wiki/Giuseppe_Garibaldi
+  editor:
+    agent_name: Nathan, Ernesto
+    gutenberg_agent_id: '48886'
+    url: http://www.gutenberg.org/2009/agents/48886
+description: ''
+gutenberg_bookshelf: IT Biografie
+gutenberg_issued: '2018-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56500'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Memorie
+
+  Edizione diplomatica dall''autografo definitivo'
+url: http://www.gutenberg.org/ebooks/56500
